@@ -2,6 +2,13 @@
 
 A state-of-the-art Flutter web & mobile application for optical store managers and warehouse staff. Features **Supabase Realtime** cross-device synchronization, **Supabase Storage Bucket** image uploads, persistent offline local database storage, automatic background catch-up sync, and live animated top notification banners.
 
+## 📱 Download Application
+Get the latest stable Android build:
+- 📥 **[Download Release APK](releases/app-release.apk)**
+
+> [!NOTE]
+> This repository is configured with **GitHub Actions**. To automatically build and draft a new release with the compiled APK, simply create and push a new Git tag (e.g., `git tag v1.0.0` and `git push origin v1.0.0`).
+
 ---
 
 ## 🌟 Key Features
